@@ -70,7 +70,7 @@ Welkom bij de Cinemachine workshop van Animation. In deze workshop ga je je eers
 
 ## Timeline en Dollys
 
-_Zet ter gemak de eerste gemaakt `CinemachineCamera` uit door het vinkje weg te halen in de `Inspector`_
+_Zet ter gemak de eerste gemaakt `CinemachineCamera` uit door het vinkje weg te halen in de `Inspector`. Deze zal later bij het onderdeel scripting weer gebruikt worden._
 
 1. **Maak een dollycam aan**
 
